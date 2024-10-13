@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer focused on Machine Learning, AI, and Cloud Computing.<br><br>Building a stock price prediction for my final year AI project.<br><br>Experienced with Azure and cloud architecture.<br><br>Always learning and open to collaboration on new projects.<br>
+Developer focused on Machine Learning, AI, and Cloud Computing.<br>Always learning and open to collaboration on new projects.<br>
 
 
 # 💻 Tech Stack:
