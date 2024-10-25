@@ -1,5 +1,4 @@
-# 💫 About Me:
-Developer focused on Machine Learning.<br>Always learning and open to collaboration on new projects.<br>
+# 💫 About Me:ML Enginee.<br>Data Scientist<br>Backend developer<br>Always learning and open to collaboration on new projects.<br>
 
 
 # 💻 Tech Stack:
