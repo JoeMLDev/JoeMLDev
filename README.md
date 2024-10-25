@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>ML Engineer.<br>Data Scientist<br>Backend developer<br>Always learning and open to collaboration on new projects.<br>
+<br>ML Engineer.<br>Data Scientist.<br>Backend developer(Django).<br>Always learning and open to collaboration on new projects.<br>
 
 
 # 💻 Tech Stack:
