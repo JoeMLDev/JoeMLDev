@@ -1,4 +1,3 @@
-
 # 💫 About Me:<br>Software Engineer/ Developer.<br>Data Scientist.<br>Always learning and open to collaboration on new projects and ideas.
 
 
